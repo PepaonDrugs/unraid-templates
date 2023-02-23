@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://hub.docker.com/r/pepaondrugs/playitgg-docker/</Support>
   <Project>https://playit.gg/</Project>
-  <Overview>playit.gg is a global proxy that allows you to host a server without port forwarding.&#xD;
+  <Overview>playit.gg is a global proxy that allows you to host a server without port forwarding. After installing please have a look at the logs&#xD;
 &#xD;
 </Overview>
   <Category>Tools: Other: Network:Proxy Status:Stable</Category>
