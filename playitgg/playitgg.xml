@@ -9,7 +9,7 @@
   <Privileged>false</Privileged>
   <Support>https://hub.docker.com/r/pepaondrugs/playitgg-docker/</Support>
   <Project>https://playit.gg/</Project>
-  <Overview>Playit tunnel service in a Docker Image&#xD;
+  <Overview>playit.gg is a global proxy that allows you to host a server without port forwarding.&#xD;
 &#xD;
 </Overview>
   <Category>Tools: Other: Network:Proxy Status:Stable</Category>
