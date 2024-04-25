@@ -19,8 +19,9 @@
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1676975913</DateInstalled>
+  <DateInstalled>1714044149</DateInstalled>
   <DonateText/>
   <DonateLink/>
   <Requires/>
+  <Config Name="AppData" Target="/root/.config/playit_gg/" Default="" Mode="rw" Description="" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/appdata/playitgg</Config>
 </Container>
